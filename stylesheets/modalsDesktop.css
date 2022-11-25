@@ -1,0 +1,80 @@
+.overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    background: rgba(0, 0, 0, 0.5);
+    mix-blend-mode: normal;
+    /* opacity: 0.5; */
+}
+
+.modal {
+    position: absolute;
+    width: 100%;
+    height: 266px;
+    left: 0px;
+    top: 250px;
+}
+
+/* Semi Dark Navy */
+.semi-dark-navy-modal {
+    background: #1F3641;
+}
+
+/* Group 26 */
+.group-26 {
+    width: 500px;
+    margin: auto;
+    height: 176px;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.playerWins {
+    height: 20px;
+    left: 36.76%;
+    right: 36.56%;
+    top: calc(50% - 20px/2 - 78px);
+}
+
+/* Group 23 */
+.group-23{
+    left: 0%;
+    right: 0%;
+    top: 20.45%;
+    bottom: 43.18%;
+}
+
+/* TAKES THE ROUND */
+.takes-round{
+    height: 50px;
+    left: 17.92%;
+    right: 0.41%;
+    vertical-align: top;
+}
+
+/* Heading (Large) */
+.heading-large{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+}
+
+/* Light Yellow */
+.light-yellow-modal{
+    color: #F2B137;
+}
+
+/* Group 25 */
+.group-25{
+    width: 238px;
+    height: 52px;
+    left: 126px;
+    top: 124px;
+}

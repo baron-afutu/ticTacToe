@@ -1,0 +1,196 @@
+body {
+    background-color: #1A2A33;
+}
+
+.main-menu {
+    width: 460px;
+    height: 471px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.button {
+    width: 460px;
+    height: 60px;
+    left: 490px;
+    top: 532px;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.rectangle {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.rectangle-2{
+    margin-left: 5.22%;
+    margin-right: 5.22%;
+    top: 33.17%;
+    bottom: 31.71%;
+    border-radius: 10px;
+    background-color: #1A2A33;
+}
+ .rectangle-3{
+    margin-right: 1%;
+    margin-top: 5px;
+    margin-bottom: 1%;
+    background-color: #A8BFC9;
+    border-radius: 10px;
+}
+ .rectangle-4{
+    margin-right: 1%;
+    margin-top: 5px;
+    margin-bottom: 1%;
+    border-color: #A8BFC9;
+    border-style: solid; 
+    border-radius: 10px;
+}
+.rectangle-token{
+    width: 50%;
+    padding-top: 5px;
+    cursor: pointer;
+}
+
+
+.light-blue {
+    background: #31C3BD;
+    box-shadow: inset 0px -8px 0px #118C87;
+    border-radius: 15px;
+}
+/* Light Yellow */
+.light-yellow{
+    background: #F2B137;
+    box-shadow: inset 0px -8px 0px #CC8B13;
+    border-radius: 15px;
+}
+/* Dark Navy */
+.dark-navy{
+    color: #1A2A33;
+}
+/* Semi Dark Navy */
+.semi-dark-navy{
+    background: #1F3641;
+    box-shadow: inset 0px -8px 0px #10212A;
+    border-radius: 15px;
+}
+/* Silver */
+.silver{
+    color: #A8BFC9;
+}
+/* Silver */
+.silver-trans{
+    color: #A8BFC9;   
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+
+
+.new-vs-player{
+    height: 25px;
+    left: 22.07%;
+    right: 21.63%;
+    top: calc(50% - 25px/2 - 4px);
+}
+
+
+/* Body */
+.body-text{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}
+.heading-small{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+}
+/* Heading (Extra Small) */
+.heading-extra-small{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+.group-2{
+    margin: auto;
+    width: 71.97px;
+    height: 60px;
+    left: 685px;
+    top: 215px;
+}
+.group-6{
+    width: 460px;
+    height: 205px;
+    left: 490px;
+    top: 287px;
+}
+.group-5{
+    width: 100%;
+    height: 54px;
+    top: 77px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.combined-shape-x{
+    width: 32px;
+    height: 32px;
+    left: 685px;
+    top: 215px;
+}
+.combined-shape-2{
+    width: 32px;
+    height: 32px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 10px;
+    fill: #A8BFC9;
+}
+.combined-shape-o{
+    width: 32px;
+    height: 32px;
+    left: 725.23px;
+}
+
+
+/* PICK PLAYER 1’S MARK */
+.pick-p1-mark{
+    height: 20px;
+    left: 29.24%;
+    right: 29.46%;
+    top: calc(50% - 20px/2 - 68.5px);
+}
+/* REMEMBER : X GOES FI */
+.reminder-x-first{
+    height: 18px;
+    left: 29.24%;
+    right: 28.8%;
+    top: calc(50% - 18px/2 + 63.5px);
+}
+
+
+/* identical to box height */
+.identical-box-height{
+    text-align: center;
+    letter-spacing: 0.875px;
+}
